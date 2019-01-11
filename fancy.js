@@ -1,3 +1,7 @@
+/**
+ * Copyright Mickey Mouse 1932
+ */
+
 // VALUES ARE TRUTHY OR FALSY
 // ! NOT OPERATOR. Returns a boolean -> FALSY -> true, TRUTHY -> false
 // TERNARY OPERATOR
